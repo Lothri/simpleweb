@@ -1,0 +1,9 @@
+README.md
+setup.py
+simple_web.egg-info/PKG-INFO
+simple_web.egg-info/SOURCES.txt
+simple_web.egg-info/dependency_links.txt
+simple_web.egg-info/requires.txt
+simple_web.egg-info/top_level.txt
+simpleweb/__init__.py
+simpleweb/simple_web_browser.py

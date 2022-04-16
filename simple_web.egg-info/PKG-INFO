@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: simple-web
+Version: 0.0.1
+Summary: ## Simple Web  # Description This is a simple web browser created in Python  # Dependencies It needs the requests library 
+Home-page: www.github.com/lothri
+Author: Tolensky
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.8
+
+UNKNOWN
+
